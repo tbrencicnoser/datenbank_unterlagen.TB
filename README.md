@@ -1,4 +1,4 @@
-# datenbank_unterlagen.TB
+# Projektname Readme
 
 ## Inhaltsverzeichnis
 
@@ -8,7 +8,7 @@
     - [TBZ](#tbz)
         - [Mathematik](#mathematik)
         - [Englisch](#englisch)
-        - [Arbeitsblätter (AB)](#arbeitsblätter-ab)
+        - [ABU](#abu)
         - [Module](#module)
 3. [Installation](#installation)
 4. [Verwendung](#verwendung)
@@ -17,8 +17,7 @@
 
 ## Beschreibung
 
-Salute, das isch ne zamesamelig vo mine unterlage.
-bi frage chasch di bi mir melde.
+Hier kannst du eine kurze Beschreibung deines Projekts einfügen. Erkläre, worum es geht und was deine Ziele sind.
 
 ## Orte
 
@@ -32,9 +31,7 @@ Das TBZ ist weiter unterteilt in verschiedene Bereiche:
 
 #### Mathematik
 
-- [Mathematik Ressource 1](https://youtu.be/No2fqBKZspQ) - das isch es video zu binär hexa und dezimal.
-- [Mathematik Ressource 2](#) - Kurze Beschreibung.
-- [Mathematik Ressource 3](#) - Kurze Beschreibung.
+- [binär,hexa,dezimal](https://youtu.be/No2fqBKZspQ) - Video zu binär, hexa und dezimal.
 
 #### Englisch
 
@@ -42,11 +39,11 @@ Das TBZ ist weiter unterteilt in verschiedene Bereiche:
 - [Englisch Ressource 2](#) - Kurze Beschreibung.
 - [Englisch Ressource 3](#) - Kurze Beschreibung.
 
-#### Arbeitsblätter (AB)
+#### ABU
 
-- [AB Ressource 1](#) - Kurze Beschreibung.
-- [AB Ressource 2](#) - Kurze Beschreibung.
-- [AB Ressource 3](#) - Kurze Beschreibung.
+- [ABU Ressource 1](#) - Kurze Beschreibung.
+- [ABU Ressource 2](#) - Kurze Beschreibung.
+- [ABU Ressource 3](#) - Kurze Beschreibung.
 
 #### Module
 
