@@ -32,7 +32,7 @@ Das TBZ ist weiter unterteilt in verschiedene Bereiche:
 
 #### Mathematik
 
-- [Mathematik Ressource 1](#https://youtu.be/No2fqBKZspQ) - das isch es video zu binär hexa und dezimal.
+- [Mathematik Ressource 1](https://youtu.be/No2fqBKZspQ) - das isch es video zu binär hexa und dezimal.
 - [Mathematik Ressource 2](#) - Kurze Beschreibung.
 - [Mathematik Ressource 3](#) - Kurze Beschreibung.
 
