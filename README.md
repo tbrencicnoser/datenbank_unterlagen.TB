@@ -56,7 +56,3 @@ Das TBZ ist weiter unterteilt in verschiedene Bereiche:
 - [Projekt docu](UK_216/Documentation/Project-Dockumentation_Tomas.Antony%2CKeanu.pdf) - doku zum project
 
 
-
-Füge hier weitere Ressourcen oder Unterbereiche hinzu, wenn nötig.
-
-
