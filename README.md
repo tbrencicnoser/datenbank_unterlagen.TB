@@ -11,7 +11,7 @@
         - [ABU](#abu)
         - [Module](#module)
 3. [ÜK-Material](#ÜK-Material)
-   - [ÜK_216](#216
+   - [ÜK_216](#216)
 
 ## Beschreibung
 
@@ -52,7 +52,7 @@ Das TBZ ist weiter unterteilt in verschiedene Bereiche:
 ## ÜK-Material
 
 ### 216
-- [Projekt docu](#tbrencicnoser/datenbank_unterlagen.TB) - 
+- [Projekt docu](#https://github.com/tbrencicnoser/datenbank_unterlagen.TB/tree/main/%C3%9CK_216/Documentation) - 
 
 
 Füge hier weitere Ressourcen oder Unterbereiche hinzu, wenn nötig.
