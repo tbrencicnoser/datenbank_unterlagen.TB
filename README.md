@@ -1,58 +1,58 @@
-# Datenbank unterlagen TB
+# Databank TB
 
-## Inhaltsverzeichnis
-
-1. [Beschreibung](#beschreibung)
-2. [Orte](#orte)
+## Table of Contents
+1. [Description](#description)
+2. [Locations](#locations)
     - [Noser Young](#noser-young)
     - [TBZ](#tbz)
-        - [Mathematik](#mathematik)
-        - [Englisch](#englisch)
+        - [Mathematics](#mathematics)
+        - [English](#english)
         - [ABU](#abu)
-        - [Module](#module)
-3. [ÜK-Material](#ÜK-Material)
-   - [ÜK_216](#216)
+        - [Modules](#modules)
+3. [ÜK Material](#ük-material)
+    - [216](#216)
+4. [General Notes](#general-notes)
 
-## Beschreibung
+## Description
 
-Hier kannst du eine kurze Beschreibung deines Projekts einfügen. Erkläre, worum es geht und was deine Ziele sind.
+Here you can insert a brief description of your project. Explain what it's about and what your goals are.
 
-## Orte
+## Locations
 
 ### Noser Young
 
-Beschreibe hier, was unter Noser Young zu finden ist.
+Describe here what can be found under Noser Young.
 
 ### TBZ
 
-Das TBZ ist weiter unterteilt in verschiedene Bereiche:
+The TBZ is further divided into different areas:
 
-#### Mathematik
+#### Mathematics
 
-- [binär,hexa,dezimal](https://youtu.be/No2fqBKZspQ) - Video zu binär, hexa und dezimal.
+- [Binary, Hexa, Decimal](https://youtu.be/No2fqBKZspQ) - Video on binary, hexa, and decimal.
 
-#### Englisch
+#### English
 
-- [Englisch Ressource 1](#) - Kurze Beschreibung.
-- [Englisch Ressource 2](#) - Kurze Beschreibung.
-- [Englisch Ressource 3](#) - Kurze Beschreibung.
+- [English Resource 1](#) - Short description.
+- [English Resource 2](#) - Short description.
+- [English Resource 3](#) - Short description.
 
 #### ABU
 
-- [ABU Ressource 1](#) - Kurze Beschreibung.
-- [ABU Ressource 2](#) - Kurze Beschreibung.
-- [ABU Ressource 3](#) - Kurze Beschreibung.
+- [ABU Resource 1](#) - Short description.
+- [ABU Resource 2](#) - Short description.
+- [ABU Resource 3](#) - Short description.
 
-#### Module
+#### Modules
 
-- [Modul Ressource 1](#) - Kurze Beschreibung.
-- [Modul Ressource 2](#) - Kurze Beschreibung.
-- [Modul Ressource 3](#) - Kurze Beschreibung.
+- [Module Resource 1](#) - Short description.
+- [Module Resource 2](#) - Short description.
+- [Module Resource 3](#) - Short description.
 
-## ÜK-Material
+## ÜK Material
 
 ### 216
 
-- [Projekt docu](UK_216/Documentation/Project-Dockumentation_Tomas.Antony%2CKeanu.pdf) - doku zum project
+- [Project Documentation](UK_216/Documentation/Project-Documentation_Tomas.Antony%2CKeanu.pdf) - Documentation of the project.
 
-
+## General Notes
